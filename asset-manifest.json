@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9160cd4d.chunk.css",
+    "main.js": "/static/js/main.58424f0b.chunk.js",
+    "main.js.map": "/static/js/main.58424f0b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19a98831.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19a98831.js.map",
+    "xlsx.js": "/static/js/xlsx.7ad43f8a.chunk.js",
+    "xlsx.js.map": "/static/js/xlsx.7ad43f8a.chunk.js.map",
+    "static/css/3.9b0e51a9.chunk.css": "/static/css/3.9b0e51a9.chunk.css",
+    "static/js/3.e6f398b2.chunk.js": "/static/js/3.e6f398b2.chunk.js",
+    "static/js/3.e6f398b2.chunk.js.map": "/static/js/3.e6f398b2.chunk.js.map",
+    "static/js/4.a32326e8.chunk.js": "/static/js/4.a32326e8.chunk.js",
+    "static/js/4.a32326e8.chunk.js.map": "/static/js/4.a32326e8.chunk.js.map",
+    "static/js/5.df3155b9.chunk.js": "/static/js/5.df3155b9.chunk.js",
+    "static/js/5.df3155b9.chunk.js.map": "/static/js/5.df3155b9.chunk.js.map",
+    "static/js/6.5f999161.chunk.js": "/static/js/6.5f999161.chunk.js",
+    "static/js/6.5f999161.chunk.js.map": "/static/js/6.5f999161.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.9b0e51a9.chunk.css.map": "/static/css/3.9b0e51a9.chunk.css.map",
+    "static/css/main.9160cd4d.chunk.css.map": "/static/css/main.9160cd4d.chunk.css.map",
+    "static/js/3.e6f398b2.chunk.js.LICENSE.txt": "/static/js/3.e6f398b2.chunk.js.LICENSE.txt",
+    "static/js/5.df3155b9.chunk.js.LICENSE.txt": "/static/js/5.df3155b9.chunk.js.LICENSE.txt",
+    "static/js/6.5f999161.chunk.js.LICENSE.txt": "/static/js/6.5f999161.chunk.js.LICENSE.txt",
+    "static/media/economics.5c153e14.webp": "/static/media/economics.5c153e14.webp",
+    "static/media/forecloser.db8d0b59.webp": "/static/media/forecloser.db8d0b59.webp",
+    "static/media/hammer.406d5217.webp": "/static/media/hammer.406d5217.webp",
+    "static/media/jursic.2f430035.webp": "/static/media/jursic.2f430035.webp",
+    "static/media/neigh.066a1ce6.webp": "/static/media/neigh.066a1ce6.webp",
+    "static/media/open.64102e31.webp": "/static/media/open.64102e31.webp",
+    "static/media/paw.e72c9d81.svg": "/static/media/paw.e72c9d81.svg",
+    "static/media/setting.6a20d944.webp": "/static/media/setting.6a20d944.webp",
+    "static/media/workforce.1e470c66.webp": "/static/media/workforce.1e470c66.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19a98831.js",
+    "static/css/3.9b0e51a9.chunk.css",
+    "static/js/3.e6f398b2.chunk.js",
+    "static/css/main.9160cd4d.chunk.css",
+    "static/js/main.58424f0b.chunk.js"
+  ]
+}
